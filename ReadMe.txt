@@ -1,13 +1,15 @@
 
 ===============================================================================================================================
-DISCLAIMER!!!!																			=
-																					=
-EasyEncrypt by Joaquin Tolentino is not for commercial use, malicious use, nor to be used for personal gains.			=
-Even though the program itself is already complete, Further development is still needed.							=
-Use with CAUTION and DO NOT test using IMPORTANT Files. Open ReadMe file for usage instructions.					=	
-																					=	
-This application was made with the intent of exploring the relation of discrete mathematics to cryptography and encryption.   =
-																					=
+DISCLAIMER!!!!																			
+																					
+EasyEncrypt by Joaquin Tolentino is not for commercial use, malicious use, nor to be used for personal gains.			
+Even though the program itself is already complete, Further development is still needed.							
+Use with CAUTION and DO NOT test using IMPORTANT Files. Open ReadMe file for usage instructions.						
+																						
+This application was made with the intent of exploring the relation of discrete mathematics to cryptography and encryption.  
+
+!!! The included .py files are just to show the raw codes used to make the application. Use the .exe file for testing. !!!
+																					
 ===============================================================================================================================
 
 To encrypt a file: 
